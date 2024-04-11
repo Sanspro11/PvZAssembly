@@ -1,4 +1,4 @@
-This is the Plants vs Zombes but its the "scuffed version"
+This is the Plants vs Zombes but its the "scuffed version",
 Its for the grade 10 Assembly project in the Gvahim (גבהים) program.
 
 Originally i wanted to do a game similar to Plants vs Zombies, but as i developed this game, I kind of made my own game with its own rules (which is probably a game that already exists in other variants)
